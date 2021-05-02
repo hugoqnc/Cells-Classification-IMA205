@@ -35,6 +35,6 @@ Data comes from two publicly available data-sets: the [DTU/HERLEV](https://mde-l
 I have used the following features : `mean_intensity`, `max_intensity`, `min_intensity`, `area`, `equivalent_diameter`, `perimeter`, `euler_number`, `centroid`, `solidity` from `measure.regionprops` in `skimage`.
 
 ## Results
-Finally, I obtained good results with Non-linear SVM, Histogram Gradient Boosting, and MLP, which allow me to make **correct predictions in 96% of the cases** for the binary prediction, and 87% for the multi-class prediction.
+Finally, I obtained good results with Non-linear SVM, Histogram Gradient Boosting, and MLP, which allow me to make **correct predictions in 96% of the cases** for the binary prediction, and 87% for the multi-classes prediction.
 
 You will find more details in the complete [report (in French)](Report.pdf).
